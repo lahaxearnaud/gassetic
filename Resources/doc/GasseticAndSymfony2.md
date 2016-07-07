@@ -73,7 +73,7 @@ _layout.html.twig_
     {% if app.environment == 'prod' %}
         <!-- prod:bootstrap.js --><!-- endbuild -->
     {% else %}
-        <!-- dev:bootstrap.js --><!-- endbuild -->a
+        <!-- dev:bootstrap.js --><!-- endbuild -->
     {% endif %}
 ```
 
